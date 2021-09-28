@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\bin\Debug\PatternFasade.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\bin\Debug\PatternFasade.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\bin\Debug\PatternFasade.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\obj\Debug\PatternFasade.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\obj\Debug\PatternFasade.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\obj\Debug\PatternFasade.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFasade\PatternFasade\obj\Debug\PatternFasade.pdb

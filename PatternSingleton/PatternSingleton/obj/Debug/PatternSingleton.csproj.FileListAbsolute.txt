@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\bin\Debug\PatternSingleton.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\bin\Debug\PatternSingleton.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\bin\Debug\PatternSingleton.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\obj\Debug\PatternSingleton.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\obj\Debug\PatternSingleton.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\obj\Debug\PatternSingleton.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternSingleton\PatternSingleton\obj\Debug\PatternSingleton.pdb

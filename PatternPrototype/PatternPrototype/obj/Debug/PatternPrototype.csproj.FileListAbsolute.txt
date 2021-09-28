@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\bin\Debug\PatternPrototype.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\bin\Debug\PatternPrototype.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\bin\Debug\PatternPrototype.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\obj\Debug\PatternPrototype.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\obj\Debug\PatternPrototype.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\obj\Debug\PatternPrototype.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternPrototype\PatternPrototype\obj\Debug\PatternPrototype.pdb

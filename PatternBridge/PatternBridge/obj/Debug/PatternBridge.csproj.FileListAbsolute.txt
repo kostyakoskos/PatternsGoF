@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\bin\Debug\PatternBridge.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\bin\Debug\PatternBridge.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\bin\Debug\PatternBridge.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\obj\Debug\PatternBridge.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\obj\Debug\PatternBridge.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\obj\Debug\PatternBridge.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternBridge\PatternBridge\obj\Debug\PatternBridge.pdb

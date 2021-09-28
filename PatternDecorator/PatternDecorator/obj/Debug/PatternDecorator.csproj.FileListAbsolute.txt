@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\bin\Debug\PatternDecorator.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\bin\Debug\PatternDecorator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\bin\Debug\PatternDecorator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\obj\Debug\PatternDecorator.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\obj\Debug\PatternDecorator.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\obj\Debug\PatternDecorator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternDecorator\PatternDecorator\obj\Debug\PatternDecorator.pdb

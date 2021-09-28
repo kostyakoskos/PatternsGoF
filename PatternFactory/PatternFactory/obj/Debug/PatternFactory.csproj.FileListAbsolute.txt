@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\bin\Debug\PatternFactory.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\bin\Debug\PatternFactory.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\bin\Debug\PatternFactory.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\obj\Debug\PatternFactory.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\obj\Debug\PatternFactory.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\obj\Debug\PatternFactory.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternFactory\PatternFactory\obj\Debug\PatternFactory.pdb
