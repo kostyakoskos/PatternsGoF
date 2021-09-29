@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\obj\Debug\PatternMediator.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\obj\Debug\PatternMediator.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\bin\Debug\PatternMediator.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\bin\Debug\PatternMediator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\bin\Debug\PatternMediator.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\obj\Debug\PatternMediator.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMediator\PatternMediator\obj\Debug\PatternMediator.pdb

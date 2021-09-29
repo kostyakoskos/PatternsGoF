@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternInterpreter", "PatternInterpreter\PatternInterpreter.csproj", "{85512CFB-2331-40D3-BE91-36B05F8BC9F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter2", "Interpreter2\Interpreter2.csproj", "{F42CC0BB-5C19-4C55-B212-5477647FFB72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85512CFB-2331-40D3-BE91-36B05F8BC9F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85512CFB-2331-40D3-BE91-36B05F8BC9F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85512CFB-2331-40D3-BE91-36B05F8BC9F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85512CFB-2331-40D3-BE91-36B05F8BC9F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42CC0BB-5C19-4C55-B212-5477647FFB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42CC0BB-5C19-4C55-B212-5477647FFB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42CC0BB-5C19-4C55-B212-5477647FFB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42CC0BB-5C19-4C55-B212-5477647FFB72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18213827-0F4F-4047-AD1F-8DA70B89E00F}
+	EndGlobalSection
+EndGlobal

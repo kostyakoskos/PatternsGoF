@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\bin\Debug\PatterObserver.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\bin\Debug\PatterObserver.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\bin\Debug\PatterObserver.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\obj\Debug\PatterObserver.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\obj\Debug\PatterObserver.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\obj\Debug\PatterObserver.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatterObserver\PatterObserver\obj\Debug\PatterObserver.pdb

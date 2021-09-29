@@ -1,0 +1,26 @@
+Архитектура приложения. Нужна чтобы разбить исходный класс на части. Это нужно т.к. 1 класс может быть большой и ег невозможно поддерживать. Сложно что-то добавить.
+Например в 1 классе 2700 строк. 
+Контроллеры можно изменять независимо друг от друга, вне зависимости от его функционала.
+
+Не входят в 23 паттерная проектирования GoF
+MVS MVP MVVM это по сути одно и тоже. В зависимости от задачи наждо использовать то или иное.
+
+Model-view-controller. Конец 20 века.
+Model
+The Model represents a set of classes that describe the business logic i.e. business model as well as data access operations i.e. data model. 
+It also defines business rules for data means how the data can be changed and manipulated.
+
+View
+The View represents the UI components like CSS, jQuery, html etc. It is only responsible for displaying the data that is received from the controller as the result. 
+This also transforms the model(s) into UI.
+
+Controller
+The Controller is responsible to process incoming requests. It receives input from users via the View, then process the user's data with the help of Model and passing the 
+results back to the View. Typically, it acts as the coordinator between the View and the Model.
+
+
+Model-view-present.
+Presenter - промежуточный компонент между моделью и представлением.
+
+Model-View-ViewModel - вместо контроллера, representor используется ViewModel. У ViewModel нет ссылки на представление. А представление View подписывается на изменение ViewModel.
+ViewModel не знает кто на него подписан

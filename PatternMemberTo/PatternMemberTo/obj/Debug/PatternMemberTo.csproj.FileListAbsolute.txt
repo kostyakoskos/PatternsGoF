@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\bin\Debug\PatternMemberTo.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\bin\Debug\PatternMemberTo.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\bin\Debug\PatternMemberTo.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\obj\Debug\PatternMemberTo.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\obj\Debug\PatternMemberTo.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\obj\Debug\PatternMemberTo.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternMemberTo\PatternMemberTo\obj\Debug\PatternMemberTo.pdb

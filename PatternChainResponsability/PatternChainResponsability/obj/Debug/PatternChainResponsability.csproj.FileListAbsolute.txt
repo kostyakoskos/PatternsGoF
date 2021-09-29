@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\bin\Debug\PatternChainResponsability.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\bin\Debug\PatternChainResponsability.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\bin\Debug\PatternChainResponsability.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\obj\Debug\PatternChainResponsability.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\obj\Debug\PatternChainResponsability.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\obj\Debug\PatternChainResponsability.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternChainResponsability\PatternChainResponsability\obj\Debug\PatternChainResponsability.pdb

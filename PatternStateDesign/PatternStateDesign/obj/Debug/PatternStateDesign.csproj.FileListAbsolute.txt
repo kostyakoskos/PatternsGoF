@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\bin\Debug\PatternStateDesign.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\bin\Debug\PatternStateDesign.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\bin\Debug\PatternStateDesign.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\obj\Debug\PatternStateDesign.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\obj\Debug\PatternStateDesign.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\obj\Debug\PatternStateDesign.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStateDesign\PatternStateDesign\obj\Debug\PatternStateDesign.pdb

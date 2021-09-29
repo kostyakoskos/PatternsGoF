@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\bin\Debug\PatternVisitor.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\bin\Debug\PatternVisitor.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\bin\Debug\PatternVisitor.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\obj\Debug\PatternVisitor.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\obj\Debug\PatternVisitor.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\obj\Debug\PatternVisitor.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternVisitor\PatternVisitor\obj\Debug\PatternVisitor.pdb

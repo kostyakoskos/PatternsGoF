@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\bin\Debug\PatternCommand.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\bin\Debug\PatternCommand.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\bin\Debug\PatternCommand.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\obj\Debug\PatternCommand.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\obj\Debug\PatternCommand.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\obj\Debug\PatternCommand.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternCommand\PatternCommand\obj\Debug\PatternCommand.pdb

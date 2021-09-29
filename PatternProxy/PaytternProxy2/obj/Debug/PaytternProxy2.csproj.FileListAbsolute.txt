@@ -1,0 +1,6 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternProxy\PaytternProxy2\bin\Debug\PaytternProxy2.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternProxy\PaytternProxy2\bin\Debug\PaytternProxy2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternProxy\PaytternProxy2\bin\Debug\PaytternProxy2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternProxy\PaytternProxy2\obj\Debug\PaytternProxy2.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternProxy\PaytternProxy2\obj\Debug\PaytternProxy2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternProxy\PaytternProxy2\obj\Debug\PaytternProxy2.pdb

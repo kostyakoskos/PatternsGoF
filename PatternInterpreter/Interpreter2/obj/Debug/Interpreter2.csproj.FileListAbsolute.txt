@@ -1,0 +1,6 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternInterpreter\Interpreter2\bin\Debug\Interpreter2.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternInterpreter\Interpreter2\bin\Debug\Interpreter2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternInterpreter\Interpreter2\bin\Debug\Interpreter2.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternInterpreter\Interpreter2\obj\Debug\Interpreter2.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternInterpreter\Interpreter2\obj\Debug\Interpreter2.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternInterpreter\Interpreter2\obj\Debug\Interpreter2.pdb

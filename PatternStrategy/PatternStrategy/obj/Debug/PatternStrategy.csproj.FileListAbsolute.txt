@@ -1,0 +1,7 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.exe.config
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\bin\Debug\PatternStrategy.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\PatternStrategy\PatternStrategy\obj\Debug\PatternStrategy.pdb
