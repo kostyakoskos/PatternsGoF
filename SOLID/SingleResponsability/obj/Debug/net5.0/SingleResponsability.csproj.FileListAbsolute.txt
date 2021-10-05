@@ -1,0 +1,16 @@
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\SingleResponsability.exe
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\SingleResponsability.deps.json
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\SingleResponsability.runtimeconfig.json
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\SingleResponsability.runtimeconfig.dev.json
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\SingleResponsability.dll
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\ref\SingleResponsability.dll
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\bin\Debug\net5.0\SingleResponsability.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.csproj.AssemblyReference.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.AssemblyInfoInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.AssemblyInfo.cs
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.csproj.CoreCompileInputs.cache
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.dll
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\ref\SingleResponsability.dll
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.pdb
+C:\Users\kanstantsin.karatkev\source\repos\Patterns\SOLID\SingleResponsability\obj\Debug\net5.0\SingleResponsability.genruntimeconfig.cache
